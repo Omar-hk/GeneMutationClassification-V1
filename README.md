@@ -2,6 +2,7 @@
 
 ## Overview
 This notebook builds a **gene mutation classification model** to predict whether a gene is **highly mutated** based on various genomic features. The model uses a **deep learning approach** with TensorFlow/Keras.
+Note that This notebook is more like a **prototype**. 
 
 ## Dataset
 The dataset contains frequently mutated genes and includes features such as:
